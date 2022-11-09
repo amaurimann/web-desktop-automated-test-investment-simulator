@@ -137,7 +137,7 @@ Was used [Sourcetree](https://www.sourcetreeapp.com//) for versioning.
 
 ## Authors
 
-* **Anderson Mann** - *Sr. QA Engineer* - [GitHub](https://github.com/andersonmann)
+* **A. Mann** - *QA Engineer* - [GitHub](https://github.com/amaurimann)
 
 ## License
 
